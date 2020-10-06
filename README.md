@@ -1,2 +1,2 @@
-# Data-Modeling-with-Cassandra-NoSQL
+# Data-Modeling-with-Apache Cassandra-NoSQL
 Data Engineering Nanodegree Program
