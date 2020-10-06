@@ -12,5 +12,5 @@ In this project, you'll apply what you've learned on data modeling with Apache C
 We have provided you with a project template that takes care of all the imports and provides a structure for ETL pipeline you'd need to process this data.
 
 # Project File
-You can see the project <a href="https://github.com/RashaAlamoud/Capstone-Project-with-Apache-Spark-/blob/main/Capstone%20Project%20Template.ipynb">here</a> 
+You can see the project <a href="https://github.com/RashaAlamoud/Data-Modeling-with-Cassandra-NoSQL/blob/main/Project_1B_%20Project_Template.ipynb">here</a> 
 
